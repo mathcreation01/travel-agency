@@ -1,7 +1,15 @@
 npm create vite@latest ./
 npm install clsx tailwind-merge
 Copy new public / app flder
+Update vite config.ts
+
 
 git init
-git add.
-git commit -m 'App Setup'
+git add .
+git commit -m "App Setup"
+git branch -M main
+git remote add origin https://github.com/mathcreation01/travel-agency.git
+git push -u origin main
+
+git add .
+git commit -m "Routing"
