@@ -1,0 +1,7 @@
+npm create vite@latest ./
+npm install clsx tailwind-merge
+Copy new public / app flder
+
+git init
+git add.
+git commit -m 'App Setup'
