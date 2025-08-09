@@ -12,7 +12,7 @@ interface Props {
 const Header = ({title, description, ctaText, ctaLink} : Props) => {
     const location = useLocation()
     return (
-        <header className="header">
+        <header className="header"> 
 
             <article>
                 <h1 className={cn("text-dark-100",  location.pathname === '/'

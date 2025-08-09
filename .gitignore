@@ -6,4 +6,7 @@
 /build/
 
 .env.*
+.env
 .env.local
+*.local
+steps

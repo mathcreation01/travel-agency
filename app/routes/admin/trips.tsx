@@ -10,7 +10,7 @@ const Trips = () => {
                 ctaText="Create Trip"
                 ctaLink="/trips/create"
             />
-    </main>
+    </main> 
   )
 }
 

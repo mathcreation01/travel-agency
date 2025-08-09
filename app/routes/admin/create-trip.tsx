@@ -90,7 +90,7 @@ const createTrip = ({loaderData} :  Route.ComponentProps ) => {
                    interests: formData.interest,
                    budget: formData.budget,
                    groupType: formData.groupType,
-                   userId: user.$id
+                   userId: user.$id 
                 }),
             });
 
